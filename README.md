@@ -1,6 +1,6 @@
 # vkontakte_search
 
-# долго упирался в CORS error, пока не поставил local-cors-proxy
+#№ долго упирался в CORS error, пока не поставил local-cors-proxy
 далее меняем в url api.vk.com на localhost:8010/proxy
 
 ## Build Setup
